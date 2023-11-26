@@ -1,5 +1,5 @@
 # Github Proxy 
-一个简单的Github代理,支持页面代理和git命令代理
+一个简单的Github代理,支持页面代理和git命令代理 暂时只支持```git clone```不支持```git push```
 # 编译方法
 ```
 go build -o ghproxy main.go
